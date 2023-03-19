@@ -238,3 +238,6 @@ Temporary Items
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains,macos,git,webstorm
+node_modules
+yarn.lock
+dist/**
